@@ -9,10 +9,13 @@
 
 法令文書データ格納ディレクトリ
 /data/{法令ID}/{法令ID}_{更新日付}.xml
+
 /data/{法令ID}/{法令ID}_{更新日付}.json
 
 法令文書格納ディレクトリ
 
 /docs/{法令ID}/index.txt
+
 /data/{法令ID}/{法令ID}.txt
+
 /data/{法令ID}/{法令ID}.txt
