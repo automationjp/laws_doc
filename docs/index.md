@@ -6,4 +6,5 @@
 | ------------- | ------------- | ------------- | ------------- | ------------- |
 | 330AC1000000186 | 不明 | 原子力発電における使用済燃料の再処理等のための積立金の積立て及び管理に関する法律（平成十七年法律第四十八号）  | [最新](https://github.com/automationjp/laws_doc/blob/main/docs/330AC1000000186/index.txt) | [履歴](https://github.com/automationjp/laws_doc/commits/main/docs/330AC1000000186/index.txt) |
 | 332AC0000000166 | 不明 | 核原料物質、核燃料物質及び原子炉の規制に関する法律（昭和三十二年法律第百六十六号）  | [最新](https://github.com/automationjp/laws_doc/blob/main/docs/330AC1000000186/index.txt) | [履歴](https://github.com/automationjp/laws_doc/commits/main/docs/332AC0000000166/index.txt) |
-
+| 359AC0000000086 | 不明 | 電気通信事業法（昭和五十九年法律第八十六号）  | [最新](https://github.com/automationjp/laws_doc/blob/main/docs/359AC0000000086/index.txt) | [履歴](https://github.com/automationjp/laws_doc/commits/main/docs/359AC0000000086/index.txt) |
+| 417AC0000000048 | 不明 | 原子力発電における使用済燃料の再処理等の実施及び廃炉の推進に関する法律（平成十七年法律第四十八号）  | [最新](https://github.com/automationjp/laws_doc/blob/main/docs/417AC0000000048/index.txt) | [履歴](https://github.com/automationjp/laws_doc/commits/main/docs/417AC0000000048/index.txt) |
