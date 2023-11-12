@@ -1,0 +1,328 @@
+{
+  "tag" : "Law",
+  "attr" : {
+    "Year" : "05",
+    "Num" : "032",
+    "LawType" : "Act",
+    "Lang" : "ja",
+    "ADYear" : "2023",
+    "PromulgateMonth" : "05",
+    "PromulgateDay" : "19",
+    "ScheduledEnforcementDate" : "",
+    "EnforcementComment" : "",
+    "LawTypeNum" : "2505032",
+    "OriginalPromulgateDate" : "2023/05/19",
+    "AmendmentPromulgateDate" : "2023/05/19",
+    "Mission" : "New",
+    "Status" : "PreviousEnforced",
+    "DataInfo" : "230228e81k80m01",
+    "Era" : "Reiwa",
+    "RepealType" : "",
+    "LawId" : "505AC0000000032",
+    "Category" : "工業",
+    "EnforcementDate" : "2023/05/19"
+  },
+  "children" : [
+    {
+      "tag" : "LawNum",
+      "attr" : { },
+      "children" : [
+        "令和五年法律第三十二号"
+      ]
+    },
+    {
+      "tag" : "LawBody",
+      "attr" : { },
+      "children" : [
+        {
+          "tag" : "LawTitle",
+          "attr" : {
+            "Kana" : "だつたんそせいちょうがたけいざいこうぞうへのえんかつないこうのすいしんにかんするほうりつ",
+            "KanaSeion" : "たつたんそせいちようかたけいさいこうそうへのえんかつないこうのすいしんにかんするほうりつ",
+            "Abbrev" : "",
+            "AbbrevKana" : "",
+            "OldLawTitle" : "",
+            "OldLawTitleKana" : "",
+            "OldLawTitleKanaSeion" : ""
+          },
+          "children" : [
+            "脱炭素成長型経済構造への円滑な移行の推進に関する法律"
+          ]
+        },
+        {
+          "tag" : "MainProvision",
+          "attr" : { },
+          "children" : [
+            {
+              "tag" : "Paragraph",
+              "attr" : {
+                "Num" : "1"
+              },
+              "children" : [
+                {
+                  "tag" : "ParagraphNum",
+                  "attr" : { },
+                  "children" : [ ]
+                },
+                {
+                  "tag" : "ParagraphSentence",
+                  "attr" : { },
+                  "children" : [
+                    {
+                      "tag" : "Sentence",
+                      "attr" : { },
+                      "children" : [ ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag" : "SupplProvision",
+          "attr" : {
+            "Extract" : "true"
+          },
+          "children" : [
+            {
+              "tag" : "SupplProvisionLabel",
+              "attr" : { },
+              "children" : [
+                "附　則"
+              ]
+            },
+            {
+              "tag" : "Article",
+              "attr" : {
+                "Num" : "1"
+              },
+              "children" : [
+                {
+                  "tag" : "ArticleCaption",
+                  "attr" : { },
+                  "children" : [
+                    "（施行期日）"
+                  ]
+                },
+                {
+                  "tag" : "ArticleTitle",
+                  "attr" : { },
+                  "children" : [
+                    "第一条"
+                  ]
+                },
+                {
+                  "tag" : "Paragraph",
+                  "attr" : {
+                    "Num" : "1"
+                  },
+                  "children" : [
+                    {
+                      "tag" : "ParagraphNum",
+                      "attr" : { },
+                      "children" : [ ]
+                    },
+                    {
+                      "tag" : "ParagraphSentence",
+                      "attr" : { },
+                      "children" : [
+                        {
+                          "tag" : "Sentence",
+                          "attr" : {
+                            "Function" : "main",
+                            "Num" : "1",
+                            "WritingMode" : "vertical"
+                          },
+                          "children" : [
+                            "この法律は、公布の日から起算して三月を超えない範囲内において政令で定める日から施行する。"
+                          ]
+                        },
+                        {
+                          "tag" : "Sentence",
+                          "attr" : {
+                            "Function" : "proviso",
+                            "Num" : "2",
+                            "WritingMode" : "vertical"
+                          },
+                          "children" : [
+                            "ただし、次の各号に掲げる規定は、当該各号に定める日から施行する。"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag" : "Item",
+                      "attr" : {
+                        "Num" : "1"
+                      },
+                      "children" : [
+                        {
+                          "tag" : "ItemTitle",
+                          "attr" : { },
+                          "children" : [
+                            "一"
+                          ]
+                        },
+                        {
+                          "tag" : "ItemSentence",
+                          "attr" : { },
+                          "children" : [
+                            {
+                              "tag" : "Column",
+                              "attr" : {
+                                "Num" : "1"
+                              },
+                              "children" : [
+                                {
+                                  "tag" : "Sentence",
+                                  "attr" : {
+                                    "Num" : "1",
+                                    "WritingMode" : "vertical"
+                                  },
+                                  "children" : [
+                                    "附則第十条の規定"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag" : "Column",
+                              "attr" : {
+                                "Num" : "2"
+                              },
+                              "children" : [
+                                {
+                                  "tag" : "Sentence",
+                                  "attr" : {
+                                    "Num" : "1",
+                                    "WritingMode" : "vertical"
+                                  },
+                                  "children" : [
+                                    "公布の日"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "tag" : "Item",
+                      "attr" : {
+                        "Num" : "2"
+                      },
+                      "children" : [
+                        {
+                          "tag" : "ItemTitle",
+                          "attr" : { },
+                          "children" : [
+                            "二"
+                          ]
+                        },
+                        {
+                          "tag" : "ItemSentence",
+                          "attr" : { },
+                          "children" : [
+                            {
+                              "tag" : "Column",
+                              "attr" : {
+                                "Num" : "1"
+                              },
+                              "children" : [
+                                {
+                                  "tag" : "Sentence",
+                                  "attr" : {
+                                    "Num" : "1",
+                                    "WritingMode" : "vertical"
+                                  },
+                                  "children" : [
+                                    "第十三条、第十八条、第五章及び第七章並びに附則第四条から第九条まで、第十二条から第十五条まで及び第十七条の規定"
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "tag" : "Column",
+                              "attr" : {
+                                "Num" : "2"
+                              },
+                              "children" : [
+                                {
+                                  "tag" : "Sentence",
+                                  "attr" : {
+                                    "Num" : "1",
+                                    "WritingMode" : "vertical"
+                                  },
+                                  "children" : [
+                                    "公布の日から起算して九月を超えない範囲内において政令で定める日"
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "tag" : "Article",
+              "attr" : {
+                "Num" : "10"
+              },
+              "children" : [
+                {
+                  "tag" : "ArticleCaption",
+                  "attr" : { },
+                  "children" : [
+                    "（政令への委任）"
+                  ]
+                },
+                {
+                  "tag" : "ArticleTitle",
+                  "attr" : { },
+                  "children" : [
+                    "第十条"
+                  ]
+                },
+                {
+                  "tag" : "Paragraph",
+                  "attr" : {
+                    "Num" : "1"
+                  },
+                  "children" : [
+                    {
+                      "tag" : "ParagraphNum",
+                      "attr" : { },
+                      "children" : [ ]
+                    },
+                    {
+                      "tag" : "ParagraphSentence",
+                      "attr" : { },
+                      "children" : [
+                        {
+                          "tag" : "Sentence",
+                          "attr" : {
+                            "Num" : "1",
+                            "WritingMode" : "vertical"
+                          },
+                          "children" : [
+                            "附則第二条から前条までに定めるもののほか、この法律の施行に関し必要な経過措置は、政令で定める。"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

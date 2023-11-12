@@ -1,0 +1,240 @@
+{
+  "tag" : "Law",
+  "attr" : {
+    "DataInfo" : "221215e82k99m01",
+    "Era" : "Reiwa",
+    "Year" : "04",
+    "Num" : "364",
+    "LawType" : "CabinetOrder",
+    "Lang" : "ja",
+    "LawId" : "504CO0000000364",
+    "ADYear" : "2022",
+    "PromulgateMonth" : "11",
+    "PromulgateDay" : "30",
+    "Category" : "工業",
+    "EnforcementDate" : "2023/03/20",
+    "LawTypeNum" : "3504364",
+    "OriginalPromulgateDate" : "2022/11/30",
+    "AmendmentPromulgateDate" : "2022/11/30",
+    "Mission" : "New",
+    "Status" : "CurrentEnforced",
+    "RepealType" : ""
+  },
+  "children" : [
+    {
+      "tag" : "LawNum",
+      "attr" : { },
+      "children" : [
+        "令和四年政令第三百六十四号"
+      ]
+    },
+    {
+      "tag" : "LawBody",
+      "attr" : { },
+      "children" : [
+        {
+          "tag" : "LawTitle",
+          "attr" : {
+            "Kana" : "こうあつがすほあんほうとうのいちぶをかいせいするほうりつのいちぶのしこうにともなうかんけいせいれいのせいびおよびけいかそちにかんするせいれい　しょう",
+            "KanaSeion" : "こうあつかすほあんほうとうのいちふをかいせいするほうりつのいちふのしこうにともなうかんけいせいれいのせいひおよひけいかそちにかんするせいれい　しよう",
+            "Abbrev" : "",
+            "AbbrevKana" : "",
+            "AbbrKanaSeion" : "",
+            "OldLawTitle" : "",
+            "OldLawTitleKana" : "",
+            "OldLawTitleKanaSeion" : ""
+          },
+          "children" : [
+            "高圧ガス保安法等の一部を改正する法律の一部の施行に伴う関係政令の整備及び経過措置に関する政令　抄"
+          ]
+        },
+        {
+          "tag" : "EnactStatement",
+          "attr" : { },
+          "children" : [
+            "内閣は、高圧ガス保安法等の一部を改正する法律（令和四年法律第七十四号）の一部の施行に伴い、並びに同法附則第十九条並びに電気事業法（昭和三十九年法律第百七十号）第七十条第一項（同法第八十条の六において準用する場合を含む。）及び第百十四条第四項の規定に基づき、この政令を制定する。"
+          ]
+        },
+        {
+          "tag" : "TOC",
+          "attr" : { },
+          "children" : [
+            {
+              "tag" : "TOCLabel",
+              "attr" : { },
+              "children" : [
+                "目次"
+              ]
+            },
+            {
+              "tag" : "TOCChapter",
+              "attr" : {
+                "Num" : "1"
+              },
+              "children" : [
+                {
+                  "tag" : "ChapterTitle",
+                  "attr" : { },
+                  "children" : [
+                    "第一章　関係政令の整備"
+                  ]
+                },
+                {
+                  "tag" : "ArticleRange",
+                  "attr" : { },
+                  "children" : [
+                    "（第一条―第四条）"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag" : "TOCChapter",
+              "attr" : {
+                "Num" : "2"
+              },
+              "children" : [
+                {
+                  "tag" : "ChapterTitle",
+                  "attr" : { },
+                  "children" : [
+                    "第二章　経過措置"
+                  ]
+                },
+                {
+                  "tag" : "ArticleRange",
+                  "attr" : { },
+                  "children" : [
+                    "（第五条）"
+                  ]
+                }
+              ]
+            },
+            {
+              "tag" : "TOCSupplProvision",
+              "attr" : { },
+              "children" : [
+                {
+                  "tag" : "SupplProvisionLabel",
+                  "attr" : { },
+                  "children" : [
+                    "附則"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag" : "MainProvision",
+          "attr" : {
+            "Extract" : "true"
+          },
+          "children" : [
+            {
+              "tag" : "Chapter",
+              "attr" : {
+                "Num" : "2"
+              },
+              "children" : [
+                {
+                  "tag" : "ChapterTitle",
+                  "attr" : { },
+                  "children" : [
+                    "第二章　経過措置"
+                  ]
+                },
+                {
+                  "tag" : "Article",
+                  "attr" : {
+                    "Num" : "5"
+                  },
+                  "children" : [
+                    {
+                      "tag" : "ArticleTitle",
+                      "attr" : { },
+                      "children" : [
+                        "第五条"
+                      ]
+                    },
+                    {
+                      "tag" : "Paragraph",
+                      "attr" : {
+                        "Num" : "1"
+                      },
+                      "children" : [
+                        {
+                          "tag" : "ParagraphNum",
+                          "attr" : { },
+                          "children" : [ ]
+                        },
+                        {
+                          "tag" : "ParagraphSentence",
+                          "attr" : { },
+                          "children" : [
+                            {
+                              "tag" : "Sentence",
+                              "attr" : {
+                                "Num" : "1",
+                                "WritingMode" : "vertical"
+                              },
+                              "children" : [
+                                "高圧ガス保安法等の一部を改正する法律附則第四条第一項の規定に基づく経済産業大臣の権限は、同項に規定する小規模事業用電気工作物の設置の場所を管轄する産業保安監督部長が行うものとする。"
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "tag" : "SupplProvision",
+          "attr" : { },
+          "children" : [
+            {
+              "tag" : "SupplProvisionLabel",
+              "attr" : { },
+              "children" : [
+                "附　則"
+              ]
+            },
+            {
+              "tag" : "Paragraph",
+              "attr" : {
+                "Num" : "1"
+              },
+              "children" : [
+                {
+                  "tag" : "ParagraphNum",
+                  "attr" : { },
+                  "children" : [ ]
+                },
+                {
+                  "tag" : "ParagraphSentence",
+                  "attr" : { },
+                  "children" : [
+                    {
+                      "tag" : "Sentence",
+                      "attr" : {
+                        "Num" : "1",
+                        "WritingMode" : "vertical"
+                      },
+                      "children" : [
+                        "この政令は、高圧ガス保安法等の一部を改正する法律附則第一条第三号に掲げる規定の施行の日（令和五年三月二十日）から施行する。"
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

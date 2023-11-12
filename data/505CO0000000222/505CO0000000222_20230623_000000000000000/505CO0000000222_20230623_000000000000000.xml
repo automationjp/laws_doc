@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Law ADYear="2023" AmendmentPromulgateDate="2023/06/23" Category="工業" DataInfo="230629e81k80m01" EnforcementComment="" EnforcementDate="2023/06/23" Era="Reiwa" Lang="ja" LawId="505CO0000000222" LawType="CabinetOrder" LawTypeNum="3505222" Mission="New" Num="222" OriginalPromulgateDate="2023/06/23" PromulgateDay="23" PromulgateMonth="06" RepealType="" ScheduledEnforcementDate="" Status="PreviousEnforced" Year="05"><LawNum>令和五年政令第二百二十二号</LawNum><LawBody><LawTitle AbbrKanaSeion="" Abbrev="" AbbrevKana="" Kana="だつたんそせいちょうがたけいざいこうぞうへのえんかつないこうのすいしんにかんするほうりつのしこうにともなうかんけいせいれいのせいびおよびけいかそちにかんするせいれい" KanaSeion="たつたんそせいちようかたけいさいこうそうへのえんかつないこうのすいしんにかんするほうりつのしこうにともなうかんけいせいれいのせいひおよひけいかそちにかんするせいれい" OldLawTitle="" OldLawTitleKana="" OldLawTitleKanaSeion="">脱炭素成長型経済構造への円滑な移行の推進に関する法律の施行に伴う関係政令の整備及び経過措置に関する政令　抄</LawTitle>
+    <EnactStatement>内閣は、脱炭素成長型経済構造への円滑な移行の推進に関する法律（令和五年法律第三十二号）の施行に伴い、並びに同法附則第二条第一項及び第三条第一項並びに関係法律の規定に基づき、この政令を制定する。</EnactStatement>
+    <MainProvision>
+  <Paragraph Num="1">
+    <ParagraphNum/>
+    <ParagraphSentence>
+      <Sentence/>
+    </ParagraphSentence>
+  </Paragraph>
+</MainProvision>
+    <SupplProvision>
+      <SupplProvisionLabel>附　則</SupplProvisionLabel>
+      <Paragraph Num="1">
+        <ParagraphCaption>（施行期日）</ParagraphCaption>
+        <ParagraphNum>１</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Function="main" Num="1" WritingMode="vertical">この政令は、法の施行の日（令和五年六月三十日）から施行する。</Sentence>
+          <Sentence Function="proviso" Num="2" WritingMode="vertical">ただし、次項の規定は、公布の日から施行する。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+      <Paragraph Num="2">
+        <ParagraphCaption>（準備行為）</ParagraphCaption>
+        <ParagraphNum>２</ParagraphNum>
+        <ParagraphSentence>
+          <Sentence Num="1" WritingMode="vertical">第六条の所管大臣は、この政令の施行の日前においても、同条の規定の例により、同条に規定する事項について、財務大臣に協議することができる。</Sentence>
+        </ParagraphSentence>
+      </Paragraph>
+    </SupplProvision>
+  </LawBody>
+</Law>
