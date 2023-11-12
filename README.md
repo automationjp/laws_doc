@@ -7,6 +7,9 @@
 ![image](https://github.com/automationjp/laws_doc/assets/1161494/4a97dc16-a66d-42a5-9fb9-88a6bfeda2b1)
 
 
+ドキュメント公開URL
+https://laws_doc.automation.jp/
+
 法令文書データ格納ディレクトリ
 /data/{法令ID}/{法令ID}_{更新日付}.xml
 
